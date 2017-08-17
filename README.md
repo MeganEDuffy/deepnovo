@@ -4,6 +4,6 @@ repo for work related to implementing DeepNovo ([Tran et al., 2017](http://www.p
 The creators of DeepNovo have made it publicly available for non-commerical use. 
 Souce code at [github.com/nh2tran/DeepNovo](https://github.com/nh2tran/DeepNovo).
 
-Training and testing datasets, pretrained models, and source code availble to download from the FTP server of the [MassIVE database](ftp://massive.ucsd.edu/) with the user account Nancyzxll, password DeepNovo2017.
+Training and testing datasets, pretrained models, and source code availble to download from the FTP server of the MassIVE database (via ftp://massive.ucsd.edu/DeepNovo/) with the user account Nancyzxll, password DeepNovo2017.
 
 
