@@ -7,3 +7,10 @@ Tensor flow is an open source software library build by the Google Brain Team. F
 I began learning what TensorFlow is and does by watching a few Cognitive Class videos:
 
 [Deep Learning with TensorFlow - Introduction to TensorFlow](https://www.youtube.com/watch?v=MotG3XI2qSs)
+
+the basics: 
+
+- based of the execution of a data flow graph
+- C/C++ backend
+- provides both Python and C++ APIs
+- supports distributed processing in a cluster
