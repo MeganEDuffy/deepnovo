@@ -6,4 +6,6 @@ Souce code at [github.com/nh2tran/DeepNovo](https://github.com/nh2tran/DeepNovo)
 
 Training and testing datasets, pretrained models, and source code availble to download from the FTP server of the MassIVE database (via ftp://massive.ucsd.edu/DeepNovo/) with the user account Nancyzxll, password DeepNovo2017.
 
+Tran et al. implemented and tested DeepNovo on the [Google TensorFlow](https://www.tensorflow.org/) library, Python API, r0.10.
+
 
